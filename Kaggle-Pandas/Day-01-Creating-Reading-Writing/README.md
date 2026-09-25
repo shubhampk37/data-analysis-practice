@@ -1,6 +1,6 @@
 # Day 01 — Creating, Reading and Writing
 
-**Source:** [Kaggle — Creating, Reading and Writing](https://www.kaggle.com/code/residentmario/creating-reading-and-writing)
+**Source:** [Kaggle — Exercise: Creating, Reading and Writing](https://www.kaggle.com/code/shubhamkothari37/exercise-creating-reading-and-writing)
 
 **Topic:** Creating, Reading and Writing
 
